@@ -1,1 +1,2 @@
-# restaurant_db
+# Database Design Practice - Restaurant
+For this project, I was tasked with choosing a small business model that may benefit from the use of a database, and to design and create a working prototype of said database. The domain chosen for this project was the modeling of a restaurant. This includes the interactions between employees, customers, orders, order details, and reservations. The goal of this project is to accurately model the entities and relations of a generic restaurant, then create a database with relevant information to the model. This process began with defining business rules, determining the necessary information to be stored, and designating the subsequent entities.
